@@ -1,0 +1,7 @@
+item.sulfur.name=Sulfur
+item.repaircrystal.name=RepairCrystal
+
+tooltip.repairgem.expanded_tooltip=Repair items in the holder's inventory.
+tooltip.repairgem.hold_shift=<Hold SHIFT>
+
+itemGroup.niu_tab=NiuMod

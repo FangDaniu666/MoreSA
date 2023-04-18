@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+
+    "pattern": [
+
+        "GIG",
+
+        "IEI",
+
+        "GIG"
+
+    ],
+
+    "key": {
+
+        "I": {"item": "minecraft:iron_ingot"},
+
+        "G": {"item": "minecraft:gold_ingot"},
+
+        "E": {"item": "minecraft:emerald"}
+
+    },
+
+    "result": {"item": "moresa:repaircrystal","count": 1}
+
+}
